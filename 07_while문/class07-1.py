@@ -14,7 +14,7 @@ a = 10
 while a >= 0:
     print('실행')
 
-
+'''
 # n번 반복하기
 n = int(input('n을 입력하세요: '))
 
@@ -36,7 +36,7 @@ while text == 'yes':
     text = input('yes입력시 반복: ')
 
 print('end')
-'''
+
 # ~까지 반복하기 (3) e또는 E가 입력될 때까지 반복하기
 text = input('e또는 E 입력 시 종료')
 
