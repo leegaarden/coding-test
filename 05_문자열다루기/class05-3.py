@@ -5,7 +5,7 @@ text = 'abcde {} {}'
 print(text.format('ABC', 123))
 
 # 대체하기
-text = 'abcde ABCABC ABC'
+text = 'abcde ABCABCD ABC'
 print(text.replace('ABC', 'KKK'))
 
 # 자르기
@@ -26,7 +26,7 @@ print(text.count('1'))
 
 # 제거하기
 text = 'abcde ABCABC ABCaaaa' 
-print(text.strip('a'))
+print(text.strip('abcde'))
 print(text.lstrip('a'))
 print(text.rstrip('a'))
 
