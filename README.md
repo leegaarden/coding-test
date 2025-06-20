@@ -1,3 +1,3 @@
-# Python Coding Test Practice
+# Python Practice
 
-파이썬 언어로 하는 코딩 테스트 연습 레포지토리
+코딩 테스트 준비를 위한 파이썬 언어 기초 문법 공부
